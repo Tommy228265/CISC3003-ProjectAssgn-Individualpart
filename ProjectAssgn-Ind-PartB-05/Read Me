@@ -1,0 +1,12 @@
+For this project, I am using PHP Mailer, so you should follow those steps to download vender.
+
+1. Install Composer​​
+Please go to https://getcomposer.org/download/
+click Composer-Setup.exe
+download it to：..:\...\...\php.exe
+
+2. run this code
+cd D:\XAMPP\htdocs\...(your root)
+composer require phpmailer/phpmailer
+
+After that, you can run the code successgully
